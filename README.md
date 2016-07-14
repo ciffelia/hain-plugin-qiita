@@ -1,5 +1,5 @@
 # hain-plugin-qiita
-[![GitHub tag](https://img.shields.io/github/tag/prince-0203/hain-plugin-qiita.svg?maxAge=60?style=flat-square)](https://github.com/prince-0203/hain-plugin-qiita)
+[![GitHub tag](https://img.shields.io/github/tag/prince-0203/hain-plugin-qiita.svg?maxAge=60?style=flat-square)](https://github.com/prince-0203/hain-plugin-qiita/tags)
 [![npm](https://img.shields.io/npm/v/hain-plugin-qiita.svg?maxAge=60?style=flat-square)](https://www.npmjs.com/package/hain-plugin-qiita)
 [![npm](https://img.shields.io/npm/dm/hain-plugin-qiita.svg?maxAge=60?style=flat-square)](https://www.npmjs.com/package/hain-plugin-qiita)
 [![npm](https://img.shields.io/npm/dt/hain-plugin-qiita.svg?maxAge=60?style=flat-square)](https://www.npmjs.com/package/hain-plugin-qiita)
