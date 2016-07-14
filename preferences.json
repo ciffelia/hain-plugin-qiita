@@ -1,0 +1,13 @@
+{
+  "type": "object",
+  "properties": {
+    "userId": {
+      "type": "string",
+      "title": "Qiita ID"
+    },
+    "accessToken": {
+      "type": "string",
+      "title": "Personal access token(requires read_qiita scope)"
+    }
+  }
+}
