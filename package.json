@@ -28,6 +28,6 @@
     "redirect": "/qiita"
   },
   "dependencies": {
-    "request": "^2.73.0"
+    "request": "^2.75.0"
   }
 }
